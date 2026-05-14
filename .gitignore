@@ -1,0 +1,23 @@
+# Datasets
+data/
+processed_data/
+
+# CSVs
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.env/
+
+# Modelos
+*.h5
+*.pkl
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
